@@ -1,0 +1,5 @@
+node_modules
+.env
+src/logs/app.log
+src/public/media/new-post
+src/public/img/new-user
